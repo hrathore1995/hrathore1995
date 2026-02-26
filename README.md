@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harshwardhan%20S%20Rathore&fontAlign=50&fontAlignY=40&desc=MS%20Data%20Science%20%7C%20ML%20Engineer%20%7C%20LLM%20Systems&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harshwardhan%20S.%20Rathore&fontAlign=50&fontAlignY=40&desc=MS%20Data%20Science%20%7C%20ML%20Engineer%20%7C%20LLM%20Systems&descAlign=50&descAlignY=60" />
 </p>
 
 <!-- Typing Effect -->
