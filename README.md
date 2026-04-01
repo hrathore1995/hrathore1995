@@ -10,7 +10,7 @@
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="[https://www.linkedin.com/in/harshwardhan-singh-1ab87427a/](https://www.linkedin.com/in/harshwardhan-rathore-1ab87427a/)">
+  <a href="https://www.linkedin.com/in/harshwardhan-rathore-1ab87427a/">LinkedIn</a>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="mailto:hwr432@gmail.com">
