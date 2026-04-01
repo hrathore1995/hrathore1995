@@ -11,10 +11,10 @@
 <!-- Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/harshwardhan-singh-1ab87427a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="mailto:hwr432@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hwr432%40gmail.com-red?logo=gmail">
+    <img src="https://img.shields.io/badge/Email-hwr432%40gmail.com-red?logo=gmail" />
   </a>
 </p>
 
@@ -22,9 +22,9 @@
 
 ## About Me
 
-- MS in Data Science @ University of Maryland, College Park (Aug 2024 – May 2026)  
-- Former Data Scientist @ Ascent Cyber Solutions  
-- Data Scientist Intern @ Amazon (Summer 2025)  
+- MS in Data Science at University of Maryland, College Park (Aug 2024 - May 2026)  
+- Former Data Scientist at Ascent Cyber Solutions  
+- Data Scientist Intern at Amazon (Summer 2025)  
 - Specializing in Machine Learning, LLM systems, and AWS-based scalable architectures  
 
 I enjoy building intelligent systems that move beyond notebooks into production environments.
@@ -35,29 +35,16 @@ I enjoy building intelligent systems that move beyond notebooks into production 
 
 - Large Language Models and Retrieval Augmented Generation  
 - Production ML pipelines and evaluation frameworks  
-- AWS SageMaker, Bedrock, Athena, S3  
+- AWS SageMaker, Bedrock, Athena, and S3  
 - Distributed training and transformer optimization  
-- MLOps and CI CD workflows  
+- MLOps and CI/CD workflows  
 
 ---
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,pytorch,tensorflow,sklearn,fastapi,docker,git,linux,postgres,redis&perline=11" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hrathore1995&show_icons=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hrathore1995" />
-</p>
-
-<p align="center">
-  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=hrathore1995" />
 </p>
 
 ---
@@ -72,19 +59,20 @@ I enjoy building intelligent systems that move beyond notebooks into production 
 
 <details>
   <summary><b>More About My Work</b></summary>
+  <br>
 
-  - Designed LLM-powered simulation assistant using AWS Bedrock  
-  - Built churn and attrition prediction models in production environments  
-  - Implemented reproducible ML pipelines with CI CD  
-  - Experience across NLP, Computer Vision, and structured ML systems  
+- Designed an LLM-powered simulation assistant using AWS Bedrock  
+- Built churn and attrition prediction models in production environments  
+- Implemented reproducible ML pipelines with CI/CD  
+- Experience across NLP, computer vision, and structured ML systems  
 
 </details>
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
 If you are hiring or collaborating on Machine Learning and LLM systems, feel free to reach out:
 
-📩 hwr432@gmail.com  
-🔗 https://www.linkedin.com/in/harshwardhan-singh-1ab87427a/
+- Email: [hwr432@gmail.com](mailto:hwr432@gmail.com)  
+- LinkedIn: [harshwardhan-singh-1ab87427a](https://www.linkedin.com/in/harshwardhan-singh-1ab87427a/)
