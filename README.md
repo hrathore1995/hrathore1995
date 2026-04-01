@@ -75,4 +75,4 @@ I enjoy building intelligent systems that move beyond notebooks into production 
 If you are hiring or collaborating on Machine Learning and LLM systems, feel free to reach out:
 
 - Email: [hwr432@gmail.com](mailto:hwr432@gmail.com)  
-- LinkedIn: [harshwardhan-singh-1ab87427a](https://www.linkedin.com/in/harshwardhan-singh-1ab87427a/)
+- LinkedIn: [harshwardhan-singh-1ab87427a](https://www.linkedin.com/in/harshwardhan-rathore-1ab87427a/)
